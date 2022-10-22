@@ -1,3 +1,6 @@
 {
 Hi i am file2
 }
+{
+welcome to test repo
+}
